@@ -1,0 +1,2 @@
+# pronostico
+GitHub Pages
